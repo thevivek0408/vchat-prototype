@@ -135,7 +135,7 @@ MIT License - Feel free to use this project for learning and inspiration!
 ## 👨‍💻 Author
 
 **Vivek Vardhan**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@thevivek0408](https://github.com/thevivek0408)
 
 ## 🙏 Acknowledgments
 
