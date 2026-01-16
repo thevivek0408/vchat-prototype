@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/vchat-prototype/', // GitHub Pages base path
+  base: '/', // Vercel base path (use '/vchat-prototype/' for GitHub Pages)
   build: {
     // Optimize chunk splitting
     rollupOptions: {
